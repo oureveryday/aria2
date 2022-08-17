@@ -8,11 +8,7 @@ You must use this program at your own risk.
 
 Mod
 ----------
-This build is modded to remove some aria2 limits.
-All Mod is only on windows-x64.
-Original: Original version aria2 1.35.0
-multi thread: Removed many limits to get higher speed. (Can download at 2000 thread)
-Want-Digest remove: Based on multi thread, removed Want-Digest in header to avoid aria2 detections.
+https://github.com/chitao1234/aria2-2048-threads/
 
 Introduction
 ------------
